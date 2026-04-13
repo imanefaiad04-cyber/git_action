@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
 
     private EditText txt_nom;
     private TextView txt_aff;
+    private TextView txt;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -23,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
 
         txt_nom = findViewById(R.id.id_Enom);
         txt_aff = findViewById(R.id.id_aff);
-
+      
     }
 
 
