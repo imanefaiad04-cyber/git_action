@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">tp2_HalloView</string>
+    <string name="Nome" >Entrer votre Nom</string>
+    <string name="nom">NOM</string>
+    <string name="Aff">Afficher</string>
+    <string name="msg_vide">Veuillez entrer votre prénom</string>
+    <string name="re">Bonjour</string>
+    <string name="msg_admin">Bienvenue Admin spécial</string>
+
+</resources>
